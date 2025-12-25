@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\ProductManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:src\\ProductManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:src\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\ProductManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:include\\ProductManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:include\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:src\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:include\\FileManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\CustomerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1702B0C2-6B9E-4471-A903-AF62A67CDBAD}|Supermarket Management  System.vcxproj|solutionrelative:src\\CustomerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.h",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\ProductManager.h",
+              "RelativeDocumentMoniker": "include\\ProductManager.h",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\ProductManager.h",
+              "RelativeToolTip": "include\\ProductManager.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-21T18:17:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileManager.cpp",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\FileManager.cpp",
+              "RelativeDocumentMoniker": "src\\FileManager.cpp",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\FileManager.cpp",
+              "RelativeToolTip": "src\\FileManager.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T18:15:26.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileManager.h",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\FileManager.h",
+              "RelativeDocumentMoniker": "include\\FileManager.h",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\FileManager.h",
+              "RelativeToolTip": "include\\FileManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-21T18:14:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\Product.cpp",
+              "RelativeDocumentMoniker": "src\\Product.cpp",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\Product.cpp",
+              "RelativeToolTip": "src\\Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T18:12:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cpp",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\ProductManager.cpp",
+              "RelativeDocumentMoniker": "src\\ProductManager.cpp",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\ProductManager.cpp",
+              "RelativeToolTip": "src\\ProductManager.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T18:11:57.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\Product.h",
+              "RelativeDocumentMoniker": "include\\Product.h",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\include\\Product.h",
+              "RelativeToolTip": "include\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-21T18:11:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T18:09:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerManager.cpp",
+              "DocumentMoniker": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\CustomerManager.cpp",
+              "RelativeDocumentMoniker": "src\\CustomerManager.cpp",
+              "ToolTip": "C:\\Users\\dawit\\OneDrive\\Project\\Supermarket Management  System\\src\\CustomerManager.cpp",
+              "RelativeToolTip": "src\\CustomerManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T18:09:18.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
